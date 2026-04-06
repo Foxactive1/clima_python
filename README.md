@@ -1,4 +1,4 @@
-🌦️ Clima Python API
+# 🌦️ Clima Python API
 
 API desenvolvida em Python para consulta de dados climáticos em tempo real, com suporte a geolocalização e timezone dinâmico.
 
@@ -71,12 +71,14 @@ O Railway irá:
 
 🔹 5. Definir comando de start (se necessário)
 gunicorn app:app
+
 📁 Estrutura do projeto
 clima_python/
 │── app.py
 │── requirements.txt
 │── README.md
 │── .env
+
 🧠 Arquitetura
 API REST stateless
 Integração com serviços externos
@@ -108,8 +110,8 @@ MIT License
 
 👨‍💻 Autor
 
-Desenvolvido por Dione Castro Alves
-🚀 Founder — InNovaIdeia Assessoria em Tecnologia
+## Desenvolvido por Dione Castro Alves
+## 🚀 Founder — InNovaIdeia Assessoria em Tecnologia
 
 💡 Insight estratégico
 
